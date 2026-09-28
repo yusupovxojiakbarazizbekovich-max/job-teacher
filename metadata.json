@@ -1,0 +1,7 @@
+{
+  "name": "AmaliyotHub - Interaktiv Vazifalar va O'yinlar",
+  "description": "Turli ishlarni bosqichma-bosqich o'rganish va qiziqarli mini-o'yinlar orqali amalda sinab ko'rish platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
